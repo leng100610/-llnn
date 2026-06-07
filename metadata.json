@@ -1,0 +1,6 @@
+{
+  "name": "美經雷達",
+  "description": "追蹤與分析美國關鍵經濟數據（GDP、CPI、失業率、聯準會利率），提供即時數據雷達、歷史趨勢圖與 AI 智能分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
